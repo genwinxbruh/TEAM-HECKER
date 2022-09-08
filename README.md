@@ -1,4 +1,7 @@
 # TEAM-HECKER
-DUMMY REPO
+TEAM LIST
 <br>
 Gaurav S. Mehra
+<br>
+TAMAL KUNDU
+
